@@ -117,4 +117,13 @@ function renderAndFindNumbers(nums1, nums2) {
    process, work in a team and work with GIT.`
 
 
+## Education
+2016
 
+Kazakh National Technical University named after K.I.Satpayev, Almaty
+
+2020
+Udemy(Angular) - Maximilian Schwarzmüller
+ELC - english courses
+
+## English - Pre-Intermediate
